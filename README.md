@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor FullStack`**
 
-Me chamo Vagner Vilck, tenho 21 anos e sou natural do Ceará.
+Me chamo Vagner Vilck, tenho 22 anos e sou natural do Ceará.
 Concluí o ensino médio na EEEP Profª Elsa Maria Porto Costa Lima, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no IFCE. Estou buscando desenvolver minhas habilidades na área da tecnologia e desenvolvimento.
 
 ---
